@@ -29,7 +29,7 @@ Istanbul is located in a highly active seismic zone. This project utilizes demog
 ## ⚙️ How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/istanbul-earthquake-analysis.git](https://github.com/yourusername/istanbul-earthquake-analysis.git)
+   git clone [https://github.com/IGoky13//istanbul-earthquake-analysis.git](https://github.com/IGoky13//istanbul-earthquake-analysis.git)
 Navigate to the project directory:
 
 Bash
